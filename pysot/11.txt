@@ -1,2 +1,0 @@
-testing_data you 5 + 4 ge ceshjiji 
-training_data you 7 ge xunlianji  
